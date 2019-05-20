@@ -1,1 +1,0 @@
-python wordvec_model.py --corpus "D:\My programs\Git\ner-lstm\data\gutenberg.txt" --dimension 300 --vocab_size 1000 --sentence_length 500
